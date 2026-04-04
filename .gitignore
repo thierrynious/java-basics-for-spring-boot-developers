@@ -1,0 +1,26 @@
+.idea/
+*.iml
+out/
+*.class
+.vscode/
+.DS_Store
+
+# generated docs / index files
+allclasses-index*
+allpackages-index*
+element-list*
+help-doc*
+index*
+jquery-ui.overrides*
+member-search-index*
+module-search-index*
+package-search-index*
+script*
+script-dir/
+search*
+stylesheet*
+tag-search-index*
+type-search-index*
+resources/
+index-files/
+legal/
