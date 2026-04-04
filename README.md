@@ -57,5 +57,5 @@ This course is designed to:
 
 ## 👨‍💻 Author
 
-Thierry Stephan  
+Thierry Nious  
 GitHub: https://github.com/thierrynious
